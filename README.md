@@ -9,8 +9,6 @@
   <img align="left" alt="Naomi's LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 or: nreliasar@gmail.com
-[email](mailto:nreliasar@gmail.com) 
-[email](mailto:nreliasar@gmail.com)
 
 <br />
 <br />
