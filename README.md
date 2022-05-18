@@ -15,21 +15,21 @@ or: nreliasar@gmail.com
 
 ### Languages, Tools and Frameworks:
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%2320232a.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%23F05033.svg)
+![HTML5](https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26.svg)
+![CSS3](https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Axios](https://img.shields.io/badge/-Axios-blue?style=for-the-badge&logo=axios&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/-Postgres-blue?style=for-the-badge&logo=postgres&logoColor=white)
-![Sequelize](https://img.shields.io/badge/-Sequelize-blue?style=for-the-badge&logo=sequelize&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=593D88)
+![NodeJS](https://img.shields.io/badge/node.js-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![Express](https://img.shields.io/badge/Express.js-%2320232a.svg?style=for-the-badge&logo=express&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-%2320232a.svg?style=for-the-badge&logo=axios&logoColor=blue)
+![NPM](https://img.shields.io/badge/NPM-%2320232a.svg?style=for-the-badge&logo=npm&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-%2320232a?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/-Postgres-%2320232a.svg?style=for-the-badge&logo=postgres&logoColor=blue)
+![Sequelize](https://img.shields.io/badge/-Sequelize-%2320232a.svg?style=for-the-badge&logo=sequelize&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=blue)
 
 <br />
 
