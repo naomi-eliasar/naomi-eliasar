@@ -33,4 +33,4 @@ or: nreliasar@gmail.com
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naomi-eliasar&layout=compact)](https://github.com/naomi-eliasar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naomi-eliasar&layout=compact&theme=dark&count_private=true)](https://github.com/naomi-eliasar/github-readme-stats)
