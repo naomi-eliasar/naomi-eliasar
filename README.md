@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Naomi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1> Hi there, I'm Naomi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">
 </h1>
 
 
@@ -27,7 +27,7 @@ or: nreliasar@gmail.com
 ![Axios](https://img.shields.io/badge/-Axios-%2320232a.svg?style=for-the-badge&logo=axios&logoColor=blue)
 ![NPM](https://img.shields.io/badge/NPM-%2320232a.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-%2320232a?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/-Postgres-%2320232a.svg?style=for-the-badge&logo=postgres&logoColor=blue)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-%2320232a.svg?style=for-the-badge&logo=postgreSQL&logoColor=blue)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-%2320232a.svg?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=blue)
 
