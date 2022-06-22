@@ -3,7 +3,7 @@
 
 
 
-## 🚀 I'm currently learning full stack web development at codaisseur academy
+## 🚀 I'm a full stack web developer
 <h3>📫 Want to get in touch? </h3>
 <a href="https://www.linkedin.com/in/naomi-eliasar/" target="_blank">
   <img align="left" alt="Naomi's LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
