@@ -3,7 +3,7 @@
 
 
 
-🚀 I'm a full stack web developer
+🚀 I recently completed the codaisseur bootcamp to become a full stack web developer and am now looking for a job.
 
 <h3>📫 Want to get in touch? </h3>
 <a href="https://www.linkedin.com/in/naomi-eliasar/" target="_blank">
