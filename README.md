@@ -60,7 +60,7 @@
 
 <h2>Projects</h2>
 <h3>Animalogs</h3>
-<p>My first fullstack project done at the codaisseur bootcamp.</p>
+<p>My first fullstack project done at the codaisseur bootcamp. Designed to keep track of your islands progress in the game animal crossing, save your favorite villagers and see the ones that are currently living on your island.</p>
 <a href="https://github.com/naomi-eliasar/portfolio-frontend">Link</a> to repository
 
 <h3>Tamagotchi club</h3>
