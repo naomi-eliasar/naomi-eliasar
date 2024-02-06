@@ -21,10 +21,11 @@
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26.svg"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=blue"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=blue"/>
+  <img alt="VueJS" src="https://img.shields.io/badge/vue.js-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=6DA55" />
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Redux" src="https://img.shields.io/badge/Redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=593D88"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=6DA55F"/>
-  <img alt="VueJS" src="https://img.shields.io/badge/vue.js-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=6DA55" />
   
 </p>
 
@@ -52,7 +53,6 @@
 
 <h3>New technologies</h3>
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=blue"/>
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-%2320232a.svg?style=for-the-badge&logo=graphql&logoColor=DF4AA6"
 </p>
 
@@ -61,6 +61,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naomi-eliasar&layout=compact&theme=dark)](https://github.com/naomi-eliasar/github-readme-stats)
 
 <h2>Projects</h2>
+<h3>Travel blog</h3>
+<p>A travel blog created with a friend of mine in redwood.js. We used it ourselves during a group trip to Japan to post updates, pictures and videos for our friends & family.</p>
+<a href="https://github.com/drikusroor/ohayo-goededagu">Link</a> to repository
+
 <h3>Animalogs</h3>
 <p>My first fullstack project done at the codaisseur bootcamp. Designed to keep track of your islands progress in the game animal crossing, save your favorite villagers and see the ones that are currently living on your island.</p>
 <a href="https://github.com/naomi-eliasar/portfolio-frontend">Link</a> to repository
