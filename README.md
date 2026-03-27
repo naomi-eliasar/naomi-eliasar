@@ -1,10 +1,6 @@
 <h1> Hi there, I'm Naomi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">
 </h1>
 
-
-
-🚀 I recently completed the codaisseur bootcamp to become a full stack web developer and am now looking for a job.
-
 <h3>📫 Want to get in touch? </h3>
 <a href="https://www.linkedin.com/in/naomi-eliasar/" target="_blank">
   <img align="left" alt="Naomi's LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -55,20 +51,3 @@
 <p>
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-%2320232a.svg?style=for-the-badge&logo=graphql&logoColor=DF4AA6"
 </p>
-
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naomi-eliasar&layout=compact&theme=dark)](https://github.com/naomi-eliasar/github-readme-stats)
-
-<h2>Projects</h2>
-<h3>Travel blog</h3>
-<p>A travel blog created with a friend of mine in redwood.js. We used it ourselves during a group trip to Japan to post updates, pictures and videos for our friends & family.</p>
-<a href="https://github.com/drikusroor/ohayo-goededagu">Link</a> to repository
-
-<h3>Animalogs</h3>
-<p>My first fullstack project done at the codaisseur bootcamp. Designed to keep track of your islands progress in the game animal crossing, save your favorite villagers and see the ones that are currently living on your island.</p>
-<a href="https://github.com/naomi-eliasar/portfolio-frontend">Link</a> to repository
-
-<h3>Tamagotchi club</h3>
-<p>1-week fullstack group project done at the codaisseur bootcamp. Made with the theme love in mind we created a platform for Tamagotchi owners to keep track of their virtual pets togeteher.</p>
-<a href="https://github.com/ananishimoto/tamagotchi_club_frontend">Link</a> to repository
